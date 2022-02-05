@@ -1,2 +1,2 @@
 # GAN-pytorch
-GAN Pytorch
+Deep Convolutional GAN- Pytorch
