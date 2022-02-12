@@ -1,13 +1,13 @@
 
 ## Table of Content
-> * [Deep Convolutional Generative Adversarial Networks (GANs) - Pytorch](#DeepConvolutionalGenerativeAdversarialNetworks(GANs)-Pytorch)
+> * [Deep Convolutional Generative Adversarial Networks (DCGANs) - Pytorch](#DeepConvolutionalGenerativeAdversarialNetworks(GANs)-Pytorch)
 >   * [About the Project](#AbouttheProject)
 >   * [About Database](#AboutDatabases)
 >   * [Built with](#Builtwith)
 >   * [Installation](#Installation)
 >   * [Examples](#Example)
 
-# Deep Convolutional Generative Adversarial Networks (GANs) - Pytorch
+# Deep Convolutional Generative Adversarial Networks (DCGANs) - Pytorch
 ## About the Project
 This project focuses on develop the Deep Convolutional GAN (DCGAN) to generate new images similar to the STL-10 dataset using PyTorch.
 
