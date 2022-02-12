@@ -29,7 +29,6 @@ For more information about  https://cs.stanford.edu/~acoates/stl10 .
 
 ## Built with
 * Pytorch
-* Model is ResNet18 (Both of randomly initialized weights or the pre-trained weights)
 * Binary cross-entropy (BCE) loss function for both of generator and discriminator.
 * Adam optimizer.
 
