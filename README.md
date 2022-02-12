@@ -1,13 +1,13 @@
 
 ## Table of Content
-> * [Multi Classification - Pytorch](# MultiClassification -Pytorch)
+> * [Deep Convolutional Generative Adversarial Networks (GANs) - Pytorch](#DeepConvolutionalGenerativeAdversarialNetworks(GANs)-Pytorch)
 >   * [About the Project](#AbouttheProject)
 >   * [About Database](#AboutDatabases)
 >   * [Built with](#Builtwith)
 >   * [Installation](#Installation)
 >   * [Examples](#Example)
 
-# Multi Classification - Pytorch
+# Deep Convolutional Generative Adversarial Networks (GANs) - Pytorch
 ## About the Project
 This project focuses on develop the Deep Convolutional GAN (DCGAN) to generate new images similar to the STL-10 dataset using PyTorch.
 
@@ -24,7 +24,7 @@ Steps of Developing This project:
 
 Dataset is STL-10 dataset from the PyTorch torchvision package.
 
-For more information about  https:/ / cs. stanford.edu/ ~acoates/ stl10 .
+For more information about  https://cs.stanford.edu/~acoates/stl10 .
 
 
 ## Built with
